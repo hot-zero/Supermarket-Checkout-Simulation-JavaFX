@@ -24,3 +24,11 @@ StockController, CardCheckoutController, Transaction, Transaction HistoryControl
 their respective functions. The Sequence diagram shows the flow of events in the application, starting with selecting items 
 from the User Interface and ending with printing a receipt. Finally, the Activity diagram illustrates the steps involved in the sale, 
 including selecting items, calculating the total, choosing a payment method, and printing an invoice.
+![1](https://user-images.githubusercontent.com/72950401/236645655-e3cfde6d-d11d-4a0b-b100-2d6becc67a60.jpg)
+![18](https://user-images.githubusercontent.com/72950401/236645679-ffd202fd-c44e-4980-ac20-26c56b8e6204.jpg)
+![19](https://user-images.githubusercontent.com/72950401/236645685-b887b228-ef1e-4edd-b85d-236d2f1eb96c.jpg)
+![22](https://user-images.githubusercontent.com/72950401/236645693-ff39d28a-f957-4eee-a8eb-d79e594c7bbd.jpg)
+![23](https://user-images.githubusercontent.com/72950401/236645696-517f4b64-3d79-4b0d-be8f-da17c1bb400a.jpg)
+![33](https://user-images.githubusercontent.com/72950401/236645702-86e90457-1c93-4476-aa1c-1e3389e52db0.jpg)
+![28](https://user-images.githubusercontent.com/72950401/236645699-9ff5ba7d-03e8-4b57-abb4-e7c196129867.jpg)
+
