@@ -31,4 +31,13 @@ including selecting items, calculating the total, choosing a payment method, and
 ![23](https://user-images.githubusercontent.com/72950401/236645696-517f4b64-3d79-4b0d-be8f-da17c1bb400a.jpg)
 ![33](https://user-images.githubusercontent.com/72950401/236645702-86e90457-1c93-4476-aa1c-1e3389e52db0.jpg)
 ![28](https://user-images.githubusercontent.com/72950401/236645699-9ff5ba7d-03e8-4b57-abb4-e7c196129867.jpg)
+![Supermarket Checkout Simulation_-Activity Diagram](https://user-images.githubusercontent.com/72950401/236645741-3e113a87-63c4-4c21-b8b9-4b4d52dab913.jpg)
 
+![Supermarket Checkout Simulation-Activity Diagram2](https://user-images.githubusercontent.com/72950401/236645766-ce5e8040-97c5-4c38-87d5-2b7c7e0ffc7c.jpg)
+
+![Supermarket Checkout Simulation-Class Diagram](https://user-images.githubusercontent.com/72950401/236645769-836ef121-77db-492e-811c-decdf783d4c9.jpg)
+
+
+![Supermarket Checkout Simulation-Sequence Diagrams](https://user-images.githubusercontent.com/72950401/236645774-0302afd6-028f-4177-bef1-5292e639876b.jpg)
+
+![Supermarket Checkout Simulation-UseCase](https://user-images.githubusercontent.com/72950401/236645775-02606acd-224a-42ca-9a89-8751a5959516.jpg)
